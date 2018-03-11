@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
 url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+name: Deng Songhua
+author: Deng Songhua
+qq: 877922601
+email: dengsonhua@163.com
 
-duoshuo: yourname
+duoshuo: 
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: https://github.com/sonhua-deng
+about: "这里是 Deng 的个人博客，创建于 2016"
 
 safe: true
 paginate: 20
