@@ -2,7 +2,7 @@ future: true
 permalink: /:title/
 url: http://sonhua-deng.github.io
 name: Deng Songhua
-author: Deng Songhua
+author: Deng Shonghua
 qq: 877922601
 email: dengsonhua@163.com
 
@@ -10,7 +10,7 @@ duoshuo:
 beian: 
 cnzz: 
 weibo: 
-github:sonhua-deng
+github: sonhua-deng
 about: "这里是 Deng 的个人博客，创建于 2016"
 
 safe: true
