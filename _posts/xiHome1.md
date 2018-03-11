@@ -2,7 +2,7 @@
 layout: post
 title: 系统分析第一次作业
 date: 2018-03-11 12:00:10+00:00
-categories: 作业
+categories: 日志
 tags: 博客
 ---
 
